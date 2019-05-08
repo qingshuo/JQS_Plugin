@@ -1,1 +1,1 @@
-include ':app', ':jqspluginlib', ':pluginsample'
+include ':sample', ':jqspluginlib', ':pluginsample'
